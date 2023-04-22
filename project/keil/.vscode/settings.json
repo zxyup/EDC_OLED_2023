@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "arm_const_structs.h": "c",
+        "oled_config.h": "c",
+        "oled_basic.h": "c",
+        "led.h": "c",
+        "delay.h": "c",
+        "oled_draw.h": "c",
+        "OLED_DRAW.H": "cpp",
+        "oled_color.h": "c",
+        "oled_driver.h": "c",
+        "driverlib.h": "c"
+    }
+}

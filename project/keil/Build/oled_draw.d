@@ -1,0 +1,10 @@
+.\build\oled_draw.o: ..\..\oledlib\oled_draw.c
+.\build\oled_draw.o: ..\..\oledlib\oled_draw.h
+.\build\oled_draw.o: ..\..\oledlib\oled_basic.h
+.\build\oled_draw.o: ..\..\oledlib\oled_color.h
+.\build\oled_draw.o: ..\..\oledlib\oled_buffer.h
+.\build\oled_draw.o: ..\..\oledlib\oled_config.h
+.\build\oled_draw.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\oled_draw.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\build\oled_draw.o: ..\..\oledlib\oled_bmp.h
+.\build\oled_draw.o: ..\..\oledlib\oled_font.h
